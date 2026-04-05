@@ -4,6 +4,7 @@ class Solution {
          int left=0;
          int right=n-1;
 
+        
          int leftmax=0;
          int rightmax=0;
          int ans=0;
