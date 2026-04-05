@@ -1,7 +1,5 @@
 class Solution {
     public int trap(int[] height) {
-         
-
          int n=height.length;
          int left=0;
          int right=n-1;
